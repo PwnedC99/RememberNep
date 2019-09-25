@@ -1,0 +1,22 @@
+*{box-sizing:border-box}html,body{margin:0;padding:0}body{margin:10px 0;background:#000;color:#fff;font-family:sf pro display,sf pro,helvetica neue,roboto,segoe ui,Helvetica,Arial,Verdana,sans-serif}.warning{font-weight:700;background:#f44242;padding:1em!important;margin:5px 15px;border-radius:5px}.changelogEntry{margin:5px 0;border-radius:13px;background:#151515;color:#fff;text-decoration:none;padding:14px;position:relative;word-break:break-word}.changelogEntry .version{font-weight:700}a{color:#b342ff}a:hover{opacity:.9}h1,.content,.buttons{padding:20px}h1{margin:0;text-align:center}h2{text-align:center}.card{max-width:1200px;overflow-x:hidden;margin:0 auto}.content{padding-top:0}.buttons{display:flex}.buttons a,button{text-align:center;background:#512673;font-weight:700;color:#fff;display:inline-block;padding:10px;text-decoration:none;text-align:center;flex:1;border-radius:5px;border:none}.padded-buttons{margin:0 -5px}.padded-buttons>*{margin:0 5px}.packages{display:grid;margin:0 -5px}.screenshots{display:block;white-space:nowrap;overflow-x:scroll}.screenshots .screenshot{border-radius:13px;display:inline-block;padding:5px;width:33.3%}.screenshots img{border-radius:4px}.package{height:78px;margin:5px;border-radius:13px;background:#151515;color:#fff;text-decoration:none;padding:7px;position:relative;word-break:break-word}.package .name{font-size:1.2em;font-weight:700;margin:0 5px}.package .author{position:absolute;bottom:7px;right:7px;font-size:1em;font-weight:300}.row{padding:5px 15px}.logo{width:40px;display:block;margin:25px auto}.tags{margin:0 -5px}.tag{background:#5d288a;padding:5px;display:inline-block;margin:5px}.tag .name{font-weight:700}.tag .value{background:#fff;color:#070e15;padding:0 5px;border-radius:20px}.package .icon img{height:64px;border-radius:13px}.package .icon{float:left;margin-right:5px}@media screen and (min-width:900px){.packages{grid-template-columns:33.3% 33.3% 33.3%}.screenshots .screenshot{width:25%}}@media screen and (max-width:650px){.packages{grid-template-columns:100%}}.info{padding:0 15px}.info .package{margin:0;background:0 0;padding:0;margin-top:15px}.info .package .author{display:block;position:relative;bottom:auto;right:auto;margin-left:74px}
+/*
+     FILE ARCHIVED ON 14:13:34 Aug 19, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:00:11 Sep 24, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  PetaboxLoader3.datanode: 180.009 (4)
+  exclusion.robots: 0.264
+  RedisCDXSource: 21.126
+  LoadShardBlock: 149.158 (3)
+  CDXLines.iter: 17.462 (3)
+  captures_list: 192.597
+  load_resource: 194.902
+  PetaboxLoader3.resolve: 149.375
+  exclusion.robots.policy: 0.246
+  esindex: 0.011
+*/
